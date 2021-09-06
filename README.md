@@ -4,6 +4,7 @@
 
 ## Ruby
 ### Day #1 - [9.6.2021]
+- Completed [TryRuby](https://try.ruby-lang.org/)
 - Read Day 1 Finding a Nanny 
 - I did Y
 - I did Z (see this file...)
