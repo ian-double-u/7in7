@@ -4,7 +4,7 @@
 
 ## Ruby
 ### Day #1 - [9.6.2021]
-- I did X
+- Read Day 1 Finding a Nanny 
 - I did Y
 - I did Z (see this file...)
 
