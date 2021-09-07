@@ -9,6 +9,10 @@
 - Completed Day 1 Self-Study (see [here](https://github.com/ian-double-u/7in7/blob/main/1%20-%20Ruby/day1_self_study.rb))
 - Completed Project Euler Problems [1](https://github.com/ian-double-u/7in7/blob/main/1%20-%20Ruby/pe1.rb) & [2](https://github.com/ian-double-u/7in7/blob/main/1%20-%20Ruby/pe2.rb)
 
+### Day 2 - [9.7.2021]
+- Read Day 2, Floating Down from the Sky
+- Completed Day 2 Self-Study (see [here](https://github.com/ian-double-u/7in7/blob/main/1%20-%20Ruby/day2_self_study.rb))
+
 ## Io
 
 ## Prolog
