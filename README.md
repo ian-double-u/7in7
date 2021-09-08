@@ -15,7 +15,7 @@
 
 ### Day 3 - [9.8.2021]
 - Read Day 3, Serious Change
-- Completed Day 3 Self-Study (see [here](https://github.com/ian-double-u/7in7/blob/main/1%20-%20Ruby/day3_self_study.rb
+- Completed Day 3 Self-Study (see [here](https://github.com/ian-double-u/7in7/blob/main/1%20-%20Ruby/day3_self_study.rb))
 
 ## Io
 
