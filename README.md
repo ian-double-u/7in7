@@ -21,6 +21,9 @@
 - Personal Project: Password Generator (see [here](https://github.com/ian-double-u/7in7/blob/main/1%20-%20Ruby/get_password.rb))
 
 ## Io
+### Day 1 - [9.11.2021 - 9.12.2021]
+- Read Day 1, Skipping School, Hanging Out
+- Completed Day 1 Self-Study (see [here](https://github.com/ian-double-u/7in7/blob/main/2%20-%20Io/day1_self_study.io))
 
 ## Prolog
 
