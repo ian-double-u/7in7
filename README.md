@@ -17,6 +17,9 @@
 - Read Day 3, Serious Change
 - Completed Day 3 Self-Study (see [here](https://github.com/ian-double-u/7in7/blob/main/1%20-%20Ruby/day3_self_study.rb))
 
+### Bonus - [9.11.2021]
+- Personal Project: Password Generator (see [here](https://github.com/ian-double-u/7in7/blob/main/1%20-%20Ruby/get_password.rb))
+
 ## Io
 
 ## Prolog
