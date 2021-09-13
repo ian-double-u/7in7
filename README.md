@@ -31,7 +31,7 @@
 
 ## Prolog
 ### Day 1 - [9.13.2021]
-- Started Day 1, An Excellent Driver (see [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/friends.pl) and [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/food.pl))
+- Completed Day 1, An Excellent Driver (see [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/friends.pl), [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/food.pl), [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/map.pl), and [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/ohmy.pl))
 
 ## Scala
 
