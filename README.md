@@ -33,6 +33,9 @@
 ### Day 1 - [9.13.2021]
 - Completed Day 1, An Excellent Driver (see [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/friends.pl), [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/food.pl), [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/map.pl), and [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/ohmy.pl))
 
+### Day 2 - [9.14.2021]
+- Completed Day 1 Self-Study (see [here](google.com))
+
 ## Scala
 
 ## Erlang
