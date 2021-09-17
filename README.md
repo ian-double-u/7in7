@@ -31,12 +31,15 @@
 
 ## Prolog
 ### Day 1 - [9.13.2021]
-- Completed Day 1, An Excellent Driver (see [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/friends.pl), [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/food.pl), [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/map.pl), and [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/ohmy.pl))
+- Read Day 1, An Excellent Driver (see [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/friends.pl), [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/food.pl), [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/map.pl), and [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/ohmy.pl))
 
 ### Day 2 - [9.14.2021]
 - Completed Day 1 Self-Study (see [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/day1_self_study.pl))
 - Read Day 2, Fifteen Minutes to Wapner (see [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/family.pl), [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/list_math.pl), and [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/concat.pl))
-- Started Day 2 Self-Study
+- Completed Day 2 Self-Study (see [here](https://github.com/ian-double-u/7in7/blob/main/3%20-%20Prolog/day2_self_study.pl))
+
+### Day 3 - [9.17.2021]
+- Read Day 3, Blowing up Vegas
 
 ## Scala
 
