@@ -42,7 +42,7 @@
 - Read Day 3, Blowing up Vegas
 
 ## Scala
-### Day 1 = [9.22.2021]
+### Day 1 - [9.22.2021]
 - Read Day 1, The Castle on the Hill (see [here](https://github.com/ian-double-u/7in7/blob/main/4%20-%20Scala/hw.sc))
 
 ## Erlang
