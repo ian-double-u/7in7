@@ -1,5 +1,3 @@
-// ./sizer.sc
-
 import scala.io._
 import scala.actors._
 import Actor._
