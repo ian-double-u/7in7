@@ -28,5 +28,5 @@ soe(M) ->
 			io:format("success"),
 			io:format("~n");
 		true ->
-			io:format(M)
+			M
 	end.
