@@ -51,7 +51,7 @@
 
 ## Erlang
 ### Day 1 - [10.13.2021]
-- Read Day 1, (see [here](https://github.com/ian-double-u/7in7/blob/main/5%20-%20Erlang/basic.erl), [here](https://github.com/ian-double-u/7in7/blob/main/5%20-%20Erlang/matching_function.erl), and [here](https://github.com/ian-double-u/7in7/blob/main/5%20-%20Erlang/yet_again.erl))
+- Read Day 1, Appearing Human (see [here](https://github.com/ian-double-u/7in7/blob/main/5%20-%20Erlang/basic.erl), [here](https://github.com/ian-double-u/7in7/blob/main/5%20-%20Erlang/matching_function.erl), and [here](https://github.com/ian-double-u/7in7/blob/main/5%20-%20Erlang/yet_again.erl))
 - Completed Day 1 Self-Study (see [here](https://github.com/ian-double-u/7in7/blob/main/5%20-%20Erlang/day1_self_study.erl))
 
 ## Clojure
