@@ -54,6 +54,9 @@
 - Read Day 1, Appearing Human (see [here](https://github.com/ian-double-u/7in7/blob/main/5%20-%20Erlang/basic.erl), [here](https://github.com/ian-double-u/7in7/blob/main/5%20-%20Erlang/matching_function.erl), and [here](https://github.com/ian-double-u/7in7/blob/main/5%20-%20Erlang/yet_again.erl))
 - Completed Day 1 Self-Study (see [here](https://github.com/ian-double-u/7in7/blob/main/5%20-%20Erlang/day1_self_study.erl))
 
+### Day 2 - [10.14.2021]
+- Read Day 2, Changing Forms (see [here]())
+
 ## Clojure
 
 ## Haskell
