@@ -55,7 +55,7 @@
 - Completed Day 1 Self-Study (see [here](https://github.com/ian-double-u/7in7/blob/main/5%20-%20Erlang/day1_self_study.erl))
 
 ### Day 2 - [10.14.2021]
-- Read Day 2, Changing Forms (see [here]())
+- Read Day 2, Changing Forms (see [here](https://github.com/ian-double-u/7in7/blob/main/5%20-%20Erlang/double.erl))
 
 ## Clojure
 
