@@ -59,7 +59,7 @@
 - Completed Day 2 Self-Study (see [here](https://github.com/ian-double-u/7in7/blob/main/5%20-%20Erlang/day2_self_study.erl))
 
 ### Day 3 - [10.15.2021]
-- Read Day 3, The Red Pill (see [here](), [here](), [here](), and [here]())
+- Read Day 3, The Red Pill (see [here](https://github.com/ian-double-u/7in7/blob/main/5%20-%20Erlang/translate.erl), [here](https://github.com/ian-double-u/7in7/blob/main/5%20-%20Erlang/roulette.erl), [here](https://github.com/ian-double-u/7in7/blob/main/5%20-%20Erlang/coroner.erl), and [here](https://github.com/ian-double-u/7in7/blob/main/5%20-%20Erlang/doctor.erl))
 
 ## Clojure
 
