@@ -68,5 +68,6 @@
 
 ### Day 2 - [10.19.2021]
 - Read Day 2, Yoda and the Force (see [here](https://github.com/ian-double-u/7in7/blob/main/6%20-%20Clojure/pe2.clj))
+- Completed Day 3 Self-Study (see [here](https://github.com/ian-double-u/7in7/blob/main/6%20-%20Clojure/day2_self_study.clj))
 
 ## Haskell
