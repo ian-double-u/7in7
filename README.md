@@ -70,7 +70,9 @@
 - Read Day 2, Yoda and the Force (see [here](https://github.com/ian-double-u/7in7/blob/main/6%20-%20Clojure/pe2.clj))
 - Completed Day 2 Self-Study (see [here](https://github.com/ian-double-u/7in7/blob/main/6%20-%20Clojure/day2_self_study.clj))
 
-### Day 3 [10.20.2021]
+### Day 3 - [10.20.2021]
 - Read Day 3, An Eye for Evil
 
 ## Haskell
+### Day 1 - [10.29.2021]
+- Read Day 1, Logical (see [here](), [here](), and [here]())
