@@ -75,4 +75,4 @@
 
 ## Haskell
 ### Day 1 - [10.29.2021]
-- Read Day 1, Logical (see [here](), [here](), and [here]())
+- Read Day 1, Logical (see [here](https://github.com/ian-double-u/7in7/blob/main/7%20-%20Haskell/double.hs), [here](https://github.com/ian-double-u/7in7/blob/main/7%20-%20Haskell/factorial.hs), and [here](https://github.com/ian-double-u/7in7/blob/main/7%20-%20Haskell/fib.hs))
