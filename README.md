@@ -76,3 +76,6 @@
 ## Haskell
 ### Day 1 - [10.29.2021]
 - Read Day 1, Logical (see [here](https://github.com/ian-double-u/7in7/blob/main/7%20-%20Haskell/double.hs), [here](https://github.com/ian-double-u/7in7/blob/main/7%20-%20Haskell/factorial.hs), and [here](https://github.com/ian-double-u/7in7/blob/main/7%20-%20Haskell/fib.hs))
+
+### Day 2 - [10.30.2021]
+- Completed Day 1 Self-Study (see [here](https://github.com/ian-double-u/7in7/blob/main/7%20-%20Haskell/day1_self_study.hs))
