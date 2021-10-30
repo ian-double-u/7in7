@@ -80,4 +80,4 @@
 ### Day 2 - [10.30.2021]
 - Completed Day 1 Self-Study (see [here](https://github.com/ian-double-u/7in7/blob/main/7%20-%20Haskell/day1_self_study.hs))
 - Read Day 2, Spock's Great Strength (see [here](https://github.com/ian-double-u/7in7/blob/main/7%20-%20Haskell/listConcat.hs))
-- Completed Day 2 Self-Study (see [here]())
+- Completed Day 2 Self-Study (see [here](https://github.com/ian-double-u/7in7/blob/main/7%20-%20Haskell/day2_self_study.hs))
